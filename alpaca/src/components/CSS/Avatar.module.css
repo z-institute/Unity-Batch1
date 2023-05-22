@@ -1,0 +1,52 @@
+.avatar {
+  height: 200px;
+  width: 200px;
+
+  /* height: 100%;
+  width: 100%; */
+}
+
+img {
+  aspect-ratio: 1/1;
+  height: 200px;
+  width: 200px;
+
+  /* height: 25%;
+  width: 25%; */
+
+  position: absolute;
+}
+
+.backgrounds {
+  z-index: 1;
+  /* display: none; */
+}
+
+.neck,
+.hair,
+.ears,
+.leg {
+  z-index: 2
+  /* display: none; */
+}
+
+.nose {
+  z-index: 3;
+}
+
+.mouth,
+.eyes,
+.accessories {
+  z-index: 4;
+  /* display: none; */
+}
+
+.avatarImg{
+  /* display:none */
+}
+
+.canvas{
+  height:200px;
+  width:200px;
+  /* display:none */
+}

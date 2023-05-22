@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+  border: 2px solid red;
+  width: 100%;
+}
+
+.mainLeft,
+.mainLeftDown {
+  border: 2px solid black;
+}
+
+.mainRight {
+  border: 2px solid blue;
+}
