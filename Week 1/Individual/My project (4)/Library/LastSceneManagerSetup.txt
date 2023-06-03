@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/hello2znft.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
