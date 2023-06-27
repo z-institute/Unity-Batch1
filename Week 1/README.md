@@ -1,3 +1,5 @@
 # Week 1
 
-恭喜你完成 Week 1 課程！來寫作業累積更多實際操作的經驗吧～
+大家好 這是 Week 1 測試作業
+這是我用 MidJourney 畫的木頭人偶！
+![week1image](./week1.png)
